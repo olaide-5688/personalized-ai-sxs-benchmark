@@ -53,4 +53,3 @@ an actual Gemini evaluation engagement. I built it to demonstrate how I'd approa
 core tasks of a personalization-QA role: designing context-dependent prompts, applying
 a consistent rubric, and writing defensible SxS rationales. The sample model responses
 in `/evaluations` are authored by me, not real Gemini outputs, and are labeled as such.
-```
